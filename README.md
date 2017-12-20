@@ -51,7 +51,10 @@ Conclusiones de las visualizaciones de diagramas de barras: esta visualización 
 2.	Sin tener en cuenta las clases, las edades con menor ratio de supervivencia se encontraban en el rango que va de 20 a 30 años de edad, seguido de cerca por el de 30 a 40.
 3.	Los ratios de supervivencia disminuyen concluyentemente en las tarifas bajas, especialmente por debajo de 50$, seguramente asociados a tercera clase.
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barcharts.png "Barcharts")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart1.png "Barchart1")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart2.png "Barchart2")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart3.png "Barchart3")
+
 
 Conclusiones de los diagramas de densidad : La mayor frecuencia de pasajeros se corresponde a la franja de edad que va de los 30 a los 4 años que, como veremos después, también encaja con la franja de edad con mayor índice de no-supervivencia.  En cuanto a la tarifa, la frecuencia es tremendamente superior en el rango que va de 0 a 50. Este factor se ha visto también con los diagramas de barras, al visualizar las tarifas en relación a la supervivencia.
 
