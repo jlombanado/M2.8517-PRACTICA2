@@ -67,6 +67,17 @@ Conclusiones de los diagramas de densidad : los diagramas muestran la densidad d
 
 ![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Densidad.png "Densidad")
 
+## Exploración y Preguntas
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration1.png "Exploration1")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration2.png "Exploration2")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration3.png "Exploration3")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration4.png "Exploration4")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration5.png "Exploration5")
 
 
 ## Conclusiones
