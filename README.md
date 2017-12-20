@@ -7,7 +7,7 @@ https://www.kaggle.com/c/titanic/data
 En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido :
 
 
-![Alt text](https://github.com/jlombanado/M2.851--Tipologia-y-Ciclo-de-vida-de-los-datos/blob/master/Toledo.png "Toledo")
+![Alt text](https://github.com/jlombanado/M2.851--Tipologia-y-Ciclo-de-vida-de-los-datos/blob/master/Dataset.png "Dataset")
 
 Como podemos apreciar, el dataset se compone de un total de 10 variables de diferentes tipos, destacando una variable clasificatoria que podremos utilizar para identificar qué pacientes sobrevivieron tras el naufragio del Titanic.
 
