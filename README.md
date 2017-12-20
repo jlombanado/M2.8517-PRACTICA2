@@ -10,7 +10,7 @@ El caso práctico ha sido elaborado únicamente por Javier Lombana Domínguez
 En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido :
 
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Dataset.png "Dataset")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Dataset.png "Dataset")
 
 Como podemos apreciar, el dataset se compone de un total de 10 variables de diferentes tipos, destacando una variable clasificatoria que podremos utilizar para identificar qué pacientes sobrevivieron tras el naufragio del Titanic.
 
@@ -54,30 +54,30 @@ Conclusiones de las visualizaciones de diagramas de barras: esta visualización 
 2.	Sin tener en cuenta las clases, las edades con menor ratio de supervivencia se encontraban en el rango que va de 20 a 30 años de edad, seguido de cerca por el de 30 a 40.
 3.	Los ratios de supervivencia disminuyen concluyentemente en las tarifas bajas, especialmente por debajo de 50$, seguramente asociados a tercera clase.
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart1.png "Barchart1")
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart2.png "Barchart2")
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barchart3.png "Barchart3")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Barchart1.png "Barchart1")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Barchart2.png "Barchart2")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Barchart3.png "Barchart3")
 
 
 Conclusiones de los diagramas de densidad : La mayor frecuencia de pasajeros se corresponde a la franja de edad que va de los 30 a los 4 años que, como veremos después, también encaja con la franja de edad con mayor índice de no-supervivencia.  En cuanto a la tarifa, la frecuencia es tremendamente superior en el rango que va de 0 a 50. Este factor se ha visto también con los diagramas de barras, al visualizar las tarifas en relación a la supervivencia.
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Histograms.png "Histograms")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Histograms.png "Histograms")
 
 Conclusiones de los diagramas de densidad : los diagramas muestran la densidad del volumen de los datos en relación a la variable edad en relación a la variable sexo, por lo que podemos ver que existe una mayor densidad para los hombres en la franja de edad que va de 20 a 40 años, franja que en el caso de las mujeres es más suave a nivel de densidad.
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Densidad.png "Densidad")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Densidad.png "Densidad")
 
 ## Exploración y Preguntas
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration1.png "Exploration1")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Exploration1.png "Exploration1")
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration2.png "Exploration2")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Exploration2.png "Exploration2")
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration3.png "Exploration3")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Exploration3.png "Exploration3")
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration4.png "Exploration4")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Exploration4.png "Exploration4")
 
-![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Exploration5.png "Exploration5")
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/imagenes/Exploration5.png "Exploration5")
 
 
 ## Conclusiones
