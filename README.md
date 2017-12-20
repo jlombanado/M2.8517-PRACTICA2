@@ -6,6 +6,9 @@ https://www.kaggle.com/c/titanic/data
 
 En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido (copio literalmente respetando el idioma inglés original):
 
+
+![Alt text](https://github.com/jlombanado/M2.851--Tipologia-y-Ciclo-de-vida-de-los-datos/blob/master/Toledo.png "Toledo")
+
 Como podemos apreciar, el dataset se compone de un total de 10 variables de diferentes tipos, destacando una variable clasificatoria que podremos utilizar para identificar qué pacientes sobrevivieron tras el naufragio del Titanic.
 
 En lo que respuesta al ejercicio desarrollado en el lenguaje de programación estadístico R, he decidido realizar el análisis desglosado en diferentes pasos metodológicos lógicos que se dividen en 4 partes fundamentales, de las cuales copio a continuación las cabeceras. El detalle del contenido de las mismas puede apreciarse en el propio sitio git donde he colgado el ejercicio práctico. De la misma forma, profundizaré más en detalle en cada una de las partes en mis respuesas a las preguntas 2 (limpieza de los datos), 3 (análisis de los datos) y 4 (visualizaciones)
