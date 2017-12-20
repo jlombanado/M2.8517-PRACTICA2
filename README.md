@@ -1,10 +1,10 @@
+# M2.851 - Tipología y ciclo de vida de los datos aula 1: Limpieza y Validación de datos
 
-
-Para el presente ejercicio\práctica del Master de Ciencia de Datos de la UOC me he basado en el siguiente escenario práctico de Kaggle:
+El presente ejercicio práctico da respuesta a la práctica propuesta en el módulo de Tiplogoíg y Ciclo de vida de los Datos del Máster de Ciencia de Datos de la UOC. Para ello y siendo un ejercicio libre, he decidido basarme en el siguiente caso práctico planteado en el sitio web especializado en Machine Learning www.kaggle.com:
 
 https://www.kaggle.com/c/titanic/data
 
-En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido (copio literalmente respetando el idioma inglés original):
+En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido :
 
 
 ![Alt text](https://github.com/jlombanado/M2.851--Tipologia-y-Ciclo-de-vida-de-los-datos/blob/master/Toledo.png "Toledo")
@@ -43,3 +43,8 @@ PARTE 4: PREGUNTAS QUE PODEMOS RESPONDER DEL DATASET : DATA INTERROGATION
 
 PARTE 5:
 1.	Conclusiones
+
+## Visualizaciones
+
+## Preguntas
+
