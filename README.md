@@ -46,7 +46,17 @@ PARTE 5:
 
 ## Visualizaciones
 
+Conclusiones de las visualizaciones de diagramas de barras: esta visualización nuevamente refuerza varios hechos que ya intuíamos por análisis previos, pero también nos permite profundizar en algún factor nuevo:
+1.	El ratio de supervivencia de los pasajeros de tercera clase es sensiblemente inferior al de las demás clases (esto es, teniendo en cuenta los valores absolutos por clase y no comparando unas clases con otras, menos pasajeros de tercera clase tendían a sobrevivir tras el desastre).
+2.	Sin tener en cuenta las clases, las edades con menor ratio de supervivencia se encontraban en el rango que va de 20 a 30 años de edad, seguido de cerca por el de 30 a 40.
+3.	Los ratios de supervivencia disminuyen concluyentemente en las tarifas bajas, especialmente por debajo de 50$, seguramente asociados a tercera clase.
+
 ![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barcharts.png "Barcharts")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Histograms.png "Histograms")
+
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Densidad.png "Densidad")
+
 
 
 ## Preguntas
