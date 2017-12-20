@@ -53,11 +53,15 @@ Conclusiones de las visualizaciones de diagramas de barras: esta visualización 
 
 ![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barcharts.png "Barcharts")
 
+Conclusiones de los diagramas de densidad : La mayor frecuencia de pasajeros se corresponde a la franja de edad que va de los 30 a los 4 años que, como veremos después, también encaja con la franja de edad con mayor índice de no-supervivencia.  En cuanto a la tarifa, la frecuencia es tremendamente superior en el rango que va de 0 a 50. Este factor se ha visto también con los diagramas de barras, al visualizar las tarifas en relación a la supervivencia.
+
 ![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Histograms.png "Histograms")
+
+Conclusiones de los diagramas de densidad : los diagramas muestran la densidad del volumen de los datos en relación a la variable edad en relación a la variable sexo, por lo que podemos ver que existe una mayor densidad para los hombres en la franja de edad que va de 20 a 40 años, franja que en el caso de las mujeres es más suave a nivel de densidad.
 
 ![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Densidad.png "Densidad")
 
 
 
-## Preguntas
+## Conclusiones
 
