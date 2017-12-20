@@ -46,5 +46,8 @@ PARTE 5:
 
 ## Visualizaciones
 
+![Alt text](https://github.com/jlombanado/M2.8517-PRACTICA2/blob/master/Barcharts.png "Barcharts")
+
+
 ## Preguntas
 
