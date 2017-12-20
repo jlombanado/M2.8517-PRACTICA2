@@ -4,6 +4,9 @@ El presente ejercicio práctico da respuesta a la práctica propuesta en el mód
 
 https://www.kaggle.com/c/titanic/data
 
+El caso práctico ha sido elaborado únicamente por Javier Lombana Domínguez
+
+## Dataset y Caso de Uso escogido: Supervivencia en el TITANIC
 En lo que respecta al dataset, el propio sitio web kaggle define las siguientes variables y claves como parte del dataset escogido :
 
 
