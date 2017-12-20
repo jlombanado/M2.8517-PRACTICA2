@@ -71,3 +71,20 @@ Conclusiones de los diagramas de densidad : los diagramas muestran la densidad d
 
 ## Conclusiones
 
+En cualquier caso y a modo de resumen del trabajo expuesto en las secciones previas, resumo a continuación las conclusiones a las que he llegado tras el análisis efectuado:
+
+1.	La mayor frecuencia de pasajeros se corresponde a la franja de edad que va de los 30 a los 40 años, y dentro de ella, existe mayor densidad para el caso de hombres que para mujeres (que tienden a ser más jóvenes de media en el pasaje).
+2.	El mayor  índice de no-supervivencia se corresponde a la franja de edad que va de los 30 a los 40 años.  
+3.	La tarifa más frecuente con enorme diferencia se corresponde con el rango 0-50, que a su vez se corresponde con los pasajeros de tercera clase. 
+4.	El ratio de supervivencia de los pasajeros de tercera clase es sensiblemente inferior al de las demás clases (esto es, teniendo en cuenta los valores absolutos por clase y no comparando unas clases con otras, menos pasajeros de tercera clase tendían a sobrevivir tras el desastre).
+5.	Sin tener en cuenta las clases, las edades con menor ratio de supervivencia se encontraban en el rango que va de 20 a 30 años de edad, seguido de cerca por el de 30 a 40.
+6.	Los ratios de supervivencia disminuyen concluyentemente en las tarifas bajas, especialmente por debajo de 50$, seguramente asociados a tercera clase.
+7.	En los gráficos de densidad, la distribución se acumula en el primer tramo de la gráfica, correspondiendo a las tarifas más bajos para el mayor número de pasajeros asociado, lo que hace pensar que el Titanic iba principalmente ocupado por pasajeros que pagaron tarifas bajas (tercera clase probablemente). Por contra el número de pasajeros disminuye enormemente a medida que las tarifas van aumentando hacia la derecha
+
+En conclusión a los expuesto arriba, podeos decir que había tres variables determinantes en el hecho de que un pasajero sobreviviera o no:
+•	Sexo
+•	Edad
+•	Tarifa
+
+En el caso de la tarifa podríamos incluso reemplazar el atributo por ‘clase’ y obtendríamos el mismo resultado, ya que es precisamente en primera clase donde las tarifas son más caras y en tercera donde son más baratas, y es en ambos casos donde la correlación entre supervivencia y ambos atributos es más elevada.
+
